@@ -1,6 +1,6 @@
 # GraphQL + React Event Booking API
 
-Backend: (https://github.com/Anurag26/GraphQL-BE)
+Backend: (https://github.com/rahulpandeycs/GraphQL-Backend)
 
 1. An Event booking app created using GraphQL.
 2. MongoDB
