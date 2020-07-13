@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff62def4-0245-45db-8f79-9e4b93fff6b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/Bookings/Booking.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Bookings/BookingItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Bookings/BookingItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Bookings/BookingsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Bookings/BookingsPage.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bDp1l9VVYXPZX3fsdrEcGX2I4a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-visualizer" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\graphql-fe\src\Components\Bookings" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff62def4-0245-45db-8f79-9e4b93fff6b7" name="Default Changelist" comment="" />
+      <created>1588176305983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588176305983</updated>
+      <workItem from="1588176307181" duration="60000" />
+      <workItem from="1588176390869" duration="29876000" />
+      <workItem from="1588300320694" duration="7446000" />
+      <workItem from="1588364987340" duration="253000" />
+      <workItem from="1588373354567" duration="17520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588298988982">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1588298988982" />
+    <state x="421" y="117" key="FileChooserDialogImpl" timestamp="1588220828188">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="117" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1588220828188" />
+    <state x="337" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1588373380351">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="337" y="186" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1588373380351" />
+    <state x="271" y="57" width="742" height="606" key="find.popup" timestamp="1588386538812">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="271" y="57" width="742" height="606" key="find.popup/0.0.1280.720@0.0.1280.720" timestamp="1588386538812" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1588343396531">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1588343396531" />
+  </component>
+</project>
